@@ -32,7 +32,7 @@
     },
     destroyed() {
       // 对比使用这个跟不使用的区别
-      // clearTimeout(this.timer)
+      clearTimeout(this.timer)
     },
     methods: {
       start() {
