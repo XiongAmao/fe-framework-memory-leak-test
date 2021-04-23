@@ -1,7 +1,6 @@
 <template>
   <div class="App">
     <div>
-      <br />
       <button @click="fff">切换</button>
     </div>
     <br />
